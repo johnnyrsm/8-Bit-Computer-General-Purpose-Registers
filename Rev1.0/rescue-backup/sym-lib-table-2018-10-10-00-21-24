@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name GPRegisters-rescue)(type Legacy)(uri ${KIPRJMOD}/GPRegisters-rescue.lib)(options "")(descr ""))
+)

@@ -1,0 +1,7 @@
+Reference, Quantity, Value, Footprint,Price,Total,Part Page
+C1 ,1,1uF,Capacitors_THT:C_Rect_L4.0mm_W2.5mm_P2.50mm,0.32,0.32,Link
+D1 D2 D3 D4 D5 D6 D7 D8 ,8,LED,LEDs:LED_D5.0mm,0.4,3.2,Link
+J1 ,1,Conn_01x06,Pin_Headers:Pin_Header_Straight_1x06_Pitch2.54mm,0.48,0.48,Link
+J2 J3 ,2,Conn_01x08,Pin_Headers:Pin_Header_Straight_1x08_Pitch2.54mm,0.72,1.44,Link
+U1 U2 ,2,74LS173,Housings_DIP:DIP-16_W7.62mm_Socket,0.25,0.5,Link
+U3 ,1,74LS245,Housings_DIP:DIP-20_W7.62mm_Socket,0.29,0.29,Link
